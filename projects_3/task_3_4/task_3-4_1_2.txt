@@ -1,0 +1,5 @@
+total 0
+drwxrwxrwx 1 shluha228 shluha228 4.0K Mar 13 10:48 .
+-rwxrwxrwx 1 shluha228 shluha228    0 Mar 13 10:48 task_3-4_1_2.txt
+-rwxrwxrwx 1 shluha228 shluha228  101 Mar 13 10:47 task_3-4_1_1.txt
+drwxrwxrwx 1 shluha228 shluha228 4.0K Mar 13 10:43 ..
